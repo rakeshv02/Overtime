@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://overtime.tabutility.com/sitemap.xml
